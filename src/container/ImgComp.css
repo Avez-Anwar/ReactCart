@@ -1,0 +1,10 @@
+.imageOne{
+     display: flex;
+     justify-content: space-between;
+     text-decoration: none;
+    }
+
+    .imageProducts>Link{
+    text-decoration: none;
+    }
+

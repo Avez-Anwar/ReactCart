@@ -1,0 +1,22 @@
+.products {
+  display: flex;
+    width: 50rem;
+    max-width: 90%;
+    margin: 10px 10px 10px 10px;
+   
+  }
+  
+  .products ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+.products li {
+    padding: 1rem;
+    margin: 13px 436px 24px 28px;
+    border: 1px solid #00179b;
+   
+  }
+  
